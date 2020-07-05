@@ -1,0 +1,7 @@
+{
+  "name": "assignmentApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
