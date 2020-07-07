@@ -1,7 +1,8 @@
 {
   "name": "assignmentApp",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
